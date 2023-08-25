@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: DESKTOP-60SEDG5
+pool: Azure Pipelines
 
 steps:
 - task: Maven@3
