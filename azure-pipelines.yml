@@ -6,8 +6,7 @@
 trigger:
 - main
 
-pool:
-  vmImage: ubuntu-latest
+pool: DESKTOP-60SEDG5
 
 steps:
 - task: Maven@3
