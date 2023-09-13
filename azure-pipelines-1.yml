@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool: mycomputer
+pool: ec2
 
 steps:
 - task: Maven@3
